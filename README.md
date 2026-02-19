@@ -21,7 +21,7 @@ This project is organized by different detection tasks and data types, including
 Contributions of excellent papers, code, and datasets are welcome!
 
 
-## Fake News Detection
+### Fake News Detection
 
 |  Name | Code | Source |
 | ------- | ------ | ---------- |
@@ -33,10 +33,17 @@ Contributions of excellent papers, code, and datasets are welcome!
 | [IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection](https://aclanthology.org/2025.acl-long.1494/) | None | ACL 2025 |
 
 
-## Deepfake Detection
+### Deepfake Detection
 
 |  Name | Code | Source |
 | ------- | ------ | ---------- |
 | [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://aclanthology.org/2025.acl-long.493/) | [Code](https://github.com/YMLLG/SpeechFake) | ACL 2025 |
 
 
+
+### Rumor Detection
+
+|  Name | Code | Source |
+| ------- | ------ | ---------- |
+| [SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection](https://aclanthology.org/2025.acl-long.617/) | None | ACL 2025 |
+| [LLM-based Rumor Detection via Influence Guided Sample Selection and Game-based Perspective Analysis](https://aclanthology.org/2025.acl-long.1378/) | None | ACL 2025 |
