@@ -27,9 +27,9 @@ Contributions of excellent papers, code, and datasets are welcome!
 | [Synergizing LLMs with Global Label Propagation for Multimodal Fake News Detection](https://arxiv.org/abs/2506.00488) | [Code](https://github.com/TSCenter/GLPN-LLM) | ACL 2025 |
 | [TripleFact: Defending Data Contamination in the Evaluation of LLM-driven Fake News Detection](https://aclanthology.org/2025.acl-long.431/) | [Code](https://github.com/chengxuphd/triplefact) | ACL 2025 |
 | [PCoT: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation](https://aclanthology.org/2025.acl-long.1215/) | [Code](https://github.com/ArkadiusDS/PCoT) | ACL 2025 |
-| [Detection of Human and Machine-Authored Fake News in Urdu](https://arxiv.org/abs/2410.19517) | None | ACL 2025|
-| [Generate First, Then Sample: Enhancing Fake News Detection with LLM-Augmented Reinforced Sampling](https://aclanthology.org/2025.acl-long.1182/) | None | ACL 2025 |
-| [IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection](https://aclanthology.org/2025.acl-long.1494/) | None | ACL 2025 |
+| [Detection of Human and Machine-Authored Fake News in Urdu](https://arxiv.org/abs/2410.19517) |  | ACL 2025|
+| [Generate First, Then Sample: Enhancing Fake News Detection with LLM-Augmented Reinforced Sampling](https://aclanthology.org/2025.acl-long.1182/) |  | ACL 2025 |
+| [IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection](https://aclanthology.org/2025.acl-long.1494/) |  | ACL 2025 |
 
 
 ### Deepfake Detection
@@ -44,5 +44,5 @@ Contributions of excellent papers, code, and datasets are welcome!
 
 |  Name | Code | Source |
 | ------- | ------ | ---------- |
-| [SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection](https://aclanthology.org/2025.acl-long.617/) | None | ACL 2025 |
-| [LLM-based Rumor Detection via Influence Guided Sample Selection and Game-based Perspective Analysis](https://aclanthology.org/2025.acl-long.1378/) | None | ACL 2025 |
+| [SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection](https://aclanthology.org/2025.acl-long.617/) |  | ACL 2025 |
+| [LLM-based Rumor Detection via Influence Guided Sample Selection and Game-based Perspective Analysis](https://aclanthology.org/2025.acl-long.1378/) |  | ACL 2025 |
