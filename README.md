@@ -16,7 +16,6 @@ This project is organized by different detection tasks and data types, including
 - **Fake News Detection**: Methods for identifying fake news based on text, images, and multimodal approaches
 - **Deepfake Detection**: Detection techniques for AI-generated images and videos
 - **Rumor Detection**: Identification and analysis of rumor propagation on social media
-- **Multimodal Detection**: Detection methods combining multiple information sources such as text, images, and videos
 
 Contributions of excellent papers, code, and datasets are welcome!
 
