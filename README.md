@@ -31,3 +31,11 @@ Contributions of excellent papers, code, and datasets are welcome!
 | [Detection of Human and Machine-Authored Fake News in Urdu](https://arxiv.org/abs/2410.19517) | None | ACL 2025|
 | [Generate First, Then Sample: Enhancing Fake News Detection with LLM-Augmented Reinforced Sampling](https://aclanthology.org/2025.acl-long.1182/) | None | ACL 2025 |
 | [IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection](https://aclanthology.org/2025.acl-long.1494/) | None | ACL 2025 |
+
+
+## Deepfake Detection
+
+|  Name | Code | Source |
+| ------- | ------ | ---------- |
+[SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://aclanthology.org/2025.acl-long.493/) | [Code](https://github.com/YMLLG/SpeechFake) | ACL 2025 |
+
