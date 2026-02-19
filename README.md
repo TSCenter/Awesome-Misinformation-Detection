@@ -44,5 +44,5 @@ Contributions of excellent papers, code, and datasets are welcome!
 
 |  Name | Code | Source |
 | ------- | ------ | ---------- |
-| [SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection](https://aclanthology.org/2025.acl-long.617/) |  | ACL 2025 |
-| [LLM-based Rumor Detection via Influence Guided Sample Selection and Game-based Perspective Analysis](https://aclanthology.org/2025.acl-long.1378/) |  | ACL 2025 |
+| SINCon: Mitigate LLM-Generated Malicious Message Injection Attack for Rumor Detection  | [Source](https://aclanthology.org/2025.acl-long.617/) |  | ACL 2025 |
+| LLM-based Rumor Detection via Influence Guided Sample Selection and Game-based Perspective Analysis  | [Source](https://aclanthology.org/2025.acl-long.1378/) |  | ACL 2025 |
