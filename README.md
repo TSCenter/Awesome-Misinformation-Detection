@@ -37,5 +37,6 @@ Contributions of excellent papers, code, and datasets are welcome!
 
 |  Name | Code | Source |
 | ------- | ------ | ---------- |
-[SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://aclanthology.org/2025.acl-long.493/) | [Code](https://github.com/YMLLG/SpeechFake) | ACL 2025 |
+| [SpeechFake: A Large-Scale Multilingual Speech Deepfake Dataset Incorporating Cutting-Edge Generation Methods](https://aclanthology.org/2025.acl-long.493/) | [Code](https://github.com/YMLLG/SpeechFake) | ACL 2025 |
+
 
